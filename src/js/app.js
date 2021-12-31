@@ -1,5 +1,5 @@
 import "../scss/app.scss";
-import * as R from '../../node_modules/ramda/dist/ramda.js';
+import * as R from 'ramda';
 /* const R = require('ramda'); */
 window.addEventListener("DOMContentLoaded", () => {
   // This block will be executed once the page is loaded and ready
